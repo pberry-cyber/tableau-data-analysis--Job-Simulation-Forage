@@ -1,4 +1,4 @@
-# tableau-data-analysis--Job-Simulation-Forage
+# tableau-data-analysis-Job-Simulation-Forage
 
 ## Executive Summary
 This project showcases data visualization and analytical solutions to Deloitte Data Analytics via Forage. The analysis focuses on processing complex telemetry data from manufacturing plants operated by the client **Daikibo** to identify operational bottlenecks, machine breakdown frequencies, and equipment downtime patterns across global facilities.
@@ -8,13 +8,13 @@ This project showcases data visualization and analytical solutions to Deloitte D
 ## Dashboard Walkthrough
 
 ### 1. Main Executive Dashboard
-![Executive Dashboard](image 1.png)
+[Executive Dashboard](image 1.png)
 
 ### 2. Factory Operational Breakdown
-![Factory Breakdown](image 2.png)
+[Factory Breakdown](image 2.png)
 
 ### 3. Machine Telemetry & Downtime Analysis
-![Machine Telemetry](image 3.png)
+[Machine Telemetry](image 3.png)
 
 ---
 
